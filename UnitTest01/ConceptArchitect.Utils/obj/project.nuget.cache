@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vfj3kj4zlXZ1cDPWR9qH/q72myDhxNo+jnqZx0Tg25RZL1gPMiBtTGpHKKPhv1J00t16SO64pGZ22PfjbfDLSQ==",
+  "success": true,
+  "projectFilePath": "D:\\dotnet-training-name\\my-work\\UnitTest01\\ConceptArchitect.Utils\\ConceptArchitect.Utils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Neeraj\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Neeraj\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

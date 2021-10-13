@@ -1,0 +1,10 @@
+D:\dotnet-training-name\trainers-work\Programs\UnitTest01\BankingApp01\bin\Debug\BankingApp01.exe.config
+D:\dotnet-training-name\trainers-work\Programs\UnitTest01\BankingApp01\bin\Debug\BankingApp01.exe
+D:\dotnet-training-name\trainers-work\Programs\UnitTest01\BankingApp01\bin\Debug\BankingApp01.pdb
+D:\dotnet-training-name\trainers-work\Programs\UnitTest01\BankingApp01\bin\Debug\ConceptArchitect.Finance.dll
+D:\dotnet-training-name\trainers-work\Programs\UnitTest01\BankingApp01\bin\Debug\ConceptArchitect.Finance.pdb
+D:\dotnet-training-name\trainers-work\Programs\UnitTest01\BankingApp01\obj\Debug\BankingApp01.csproj.AssemblyReference.cache
+D:\dotnet-training-name\trainers-work\Programs\UnitTest01\BankingApp01\obj\Debug\BankingApp01.csproj.CoreCompileInputs.cache
+D:\dotnet-training-name\trainers-work\Programs\UnitTest01\BankingApp01\obj\Debug\BankingApp01.csproj.CopyComplete
+D:\dotnet-training-name\trainers-work\Programs\UnitTest01\BankingApp01\obj\Debug\BankingApp01.exe
+D:\dotnet-training-name\trainers-work\Programs\UnitTest01\BankingApp01\obj\Debug\BankingApp01.pdb

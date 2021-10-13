@@ -1,0 +1,4 @@
+D:\dotnet-training-name\trainers-work\Programs\UnitTest01\TestFinance\obj\Debug\TestFinance.csproj.AssemblyReference.cache
+D:\dotnet-training-name\trainers-work\Programs\UnitTest01\TestFinance\obj\Debug\TestFinance.csproj.CoreCompileInputs.cache
+D:\dotnet-training-name\my-work\UnitTest01\TestFinance\obj\Debug\TestFinance.csproj.AssemblyReference.cache
+D:\dotnet-training-name\my-work\UnitTest01\TestFinance\obj\Debug\TestFinance.csproj.CoreCompileInputs.cache
